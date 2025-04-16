@@ -43,16 +43,7 @@ This notebook documents my learning process during Weeks 1 to 5. It includes:
 4. Explorations of how to process and display different types of media such as text, images, and audio using Python libraries like `IPython.display`, `PIL`, and `librosa`.
 5. A summary of my key learning outcomes and a critical evaluation of Copilot as a tool for learning programming.
 
-- **2. `Machine-Learning-by-Example-from-Start-to-End.ipynb` – Applied Machine Learning**
-
-This notebook was provided as a template and contains a complete machine learning workflow, which I followed and annotated. My contributions include:
-
-1. Running all code cells and ensuring I understood each step, from data loading to training, testing, and evaluating a model.
-2. Reflective markdown responses to questions embedded in the notebook, connecting technical steps to concepts from course lectures and readings.
-3. A critical perspective on how machine learning models work, what assumptions they rely on, and how these models might be limited when applied to cultural and social contexts.
-4. Peer-based reflections comparing my understanding and interpretations with those of others in the class.
-
-- **3. `Creative-LLM-Design.ipynb` – Conceptual Design of a Large Language Model Application**
+- **2. `Creative-LLM-Design.ipynb` – Conceptual Design of a Large Language Model Application**
 
 This notebook presents my design proposal for a creative application that uses a large language model (LLM). The notebook includes:
 
@@ -61,6 +52,15 @@ This notebook presents my design proposal for a creative application that uses a
 3. A justification of how the design promotes one or more values: engagement, inclusion, or learning.
 4. A critical reflection on the potential social and cultural implications of the design, including issues of representation, accessibility, and ethical considerations.
 5. References to course readings, case studies, and examples of existing AI applications that inspired my concept.
+
+- **3. `Machine-Learning-by-Example-from-Start-to-End.ipynb` – Applied Machine Learning**
+
+This notebook was provided as a template and contains a complete machine learning workflow, which I followed and annotated. My contributions include:
+
+1. Running all code cells and ensuring I understood each step, from data loading to training, testing, and evaluating a model.
+2. Reflective markdown responses to questions embedded in the notebook, connecting technical steps to concepts from course lectures and readings.
+3. A critical perspective on how machine learning models work, what assumptions they rely on, and how these models might be limited when applied to cultural and social contexts.
+4. Peer-based reflections comparing my understanding and interpretations with those of others in the class.
 
 - **4. `README.md` – Repository Introduction**
 
